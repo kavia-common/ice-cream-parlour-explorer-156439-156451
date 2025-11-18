@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/ice-cream-parlour-explorer-156439-156451/frontend_react"
+}
